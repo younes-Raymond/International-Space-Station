@@ -1,0 +1,24 @@
+ 
+ body {
+            height: 1000px;
+        } 
+ #issmap{
+            height: 480px;
+        }
+        .coords-container {
+            display: flex;
+            flex-direction: column;
+            background: black;
+            color: white;
+            align-items: center;
+            height: 20%;
+            text-align: center;
+        }
+         /* #btn {
+            border: none;
+            background-color: black;
+            color: white;
+            border-radius:4px;
+            cursor: pointer;
+
+        } */
